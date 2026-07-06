@@ -106,9 +106,9 @@ Classify handwritten digits using a feed-forward neural network.
 
 | Metric | Value |
 |---------|------:|
-| Training Accuracy | |
-| Validation Accuracy | |
-| Test Accuracy | |
+| Training Accuracy | 0.98|
+| Validation Accuracy | 0.97|
+| Test Accuracy | 0.97|
 
 ---
 
