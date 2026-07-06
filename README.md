@@ -56,13 +56,12 @@ Predict customer churn using a fully connected neural network.
 
 ## Results
 
-(Add your metrics here)
 
 | Metric | Value |
 |---------|------:|
-| Training Loss | |
-| Validation Loss | |
-| RMSE | |
+| Training Loss |0.36 |
+| Validation Loss | 0.35|
+| Test accuracy |0.85 |
 
 ---
 
